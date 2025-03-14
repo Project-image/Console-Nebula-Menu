@@ -1,5 +1,7 @@
 # 🚀 Roblox Console Nebula Menu V2  
 
+## **I AM NO LONGER PLANNING TO UPDATE THIS MENU.**
+
 **The Ultimate Console-Based Mod Menu for Roblox (Private Use Only!)**  
 
 Console Nebula Menu V2 is a powerful and fun tool designed for ROBLOX **anti-cheat testing and private game modifications** in Roblox. With an easy-to-use interface and a nebula-themed design, this menu provides access to **RGB effects, movement mods, OP commands, sound manipulation, and more!**  
